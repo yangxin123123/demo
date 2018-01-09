@@ -1,0 +1,65 @@
+
+.part .wp{
+	border-top:none;
+}
+.head>.wp>div{
+width:1000px;
+top:0;
+position:fixed;
+z-index:99999;
+}
+.main-nv{
+	height:50px;
+	background:#004585 !important;
+	overflow:hidden;
+	padding-left:50px;
+	width:950px !important
+}
+.main-nv li{
+	float:left;
+	padding:10px 20px 0 20px;
+	height:40px;
+	margin:0 10px;
+}
+.main-nv li a{
+	color:#FFF;
+	display:block;
+	letter-spacing:2px;
+	font-size:20px;
+	padding:0 0 2px 0;
+	text-decoration:none
+}
+.main-nv li a:hover{
+	color:#FFF !important;
+}
+.main-nv .activity a{
+	border-bottom:2px #3c94e5 solid
+}
+.main-nv li a:hover{
+	border-bottom:2px #3c94e5 solid
+}
+.content{
+padding-top:70px;
+}
+.content>.wp{
+	background:#FFF;
+	
+}
+.top-nv{
+padding:5px 15px;
+width:970px !important;
+
+}
+.top-nv a{
+font-size:16px;
+}
+.about-content{
+padding:20px 40px 30px 40px;
+width:920px !important;
+position:relative;
+line-height:24px;
+min-height:300px;
+}
+.about-content img{
+margin:20px 0;
+}
